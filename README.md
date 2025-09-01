@@ -10,7 +10,7 @@ CS50P is Harvard's introduction to programming with Python, covering fundamental
 ##✨  Current Progress
 
 *Uploading solutions as I complete each problem set...*
-- [ ] Problem Set 0 - Functions, Variables
+- [X] Problem Set 0 - Functions, Variables
 - [ ] Problem Set 1 - Conditionals  
 - [ ] Problem Set 2 - Loops
 - [ ] Problem Set 3 - Exceptions
@@ -19,6 +19,7 @@ CS50P is Harvard's introduction to programming with Python, covering fundamental
 - [ ] Problem Set 6 - File I/O
 - [ ] Problem Set 7 - Regular Expressions
 - [ ] Problem Set 8 - Object-Oriented Programming
+- [ ] Problem Set 9 - Et Cetera
 - [ ] Final Project
 
 ##✨  Skills Being Developed
